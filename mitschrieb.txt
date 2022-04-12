@@ -1,3 +1,4 @@
 - git cheatsheet
 - .gitignore
-	-offiziell vorgefertigte files
+	-offiziell vorgefertigte files (https://github.com/github/gitignore)
+- LICENSE.txt
